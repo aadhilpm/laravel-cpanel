@@ -53,9 +53,9 @@ open cpanel File Manger>public_html
 Upload zip file and extract the folder (Lets call the folder as sports)
 
 Move all files under public folder (public_html/sports/public) to public_html
-```
+
 Edit index.php on public_html following manner
-*/
+```*/
 
 require __DIR__.'/sports/vendor/autoload.php';
 
