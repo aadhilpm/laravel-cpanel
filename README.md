@@ -5,7 +5,9 @@ Make a duplicate of existing project on Xamp (Lets Call as "sports"). Cross chec
 
 cmd>
 cd C:\xampp\htdocs\sports
-> php artisan serve
+```
+php artisan serve 
+```
 
 If everything is working perfectly then export database file (http://localhost/phpmyadmin)
 
